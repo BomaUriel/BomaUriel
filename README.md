@@ -1,4 +1,4 @@
-# Hi there, I'm Boma Uriel 👋
+# Hi there, I'm Boma U G 👋
 
 ## About Me
 I'm a **Full-Stack Developer** skilled in building responsive front-end interfaces and scalable back-end APIs. I work with **JavaScript, React, Python, Flask, and MySQL**, and I enjoy turning ideas into clean, functional, and user-friendly applications.
