@@ -3,7 +3,7 @@
 ## About Me
 I'm a **Full-Stack Developer** skilled in building responsive front-end interfaces and scalable back-end APIs. I work with **JavaScript, React, Python, Flask, and MySQL**, and I enjoy turning ideas into clean, functional, and user-friendly applications.
 
-My background in **DevOps/SRE** gives me a strong foundation in debugging, cloud basics, CI/CD, and building reliable applications.
+My background in **DevOps/SRE** gives me a strong foundation in debugging and cloud, CI/CD, and building reliable applications.
 
 ---
 
